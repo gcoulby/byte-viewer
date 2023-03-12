@@ -1,3 +1,27 @@
+# Byte Viewer
+
+This is a web based tool for exploring the binary contents of files. It provides a
+hexadecimal, decimal and binary view for each byte in the file. It also provides
+a text view for ASCII characters.
+
+## Usage
+
+To use the tool visit [https://gcoulby.github.io/byte-viewer/](https://gcoulby.github.io/byte-viewer/).
+
+## Development
+
+To run the tool locally, clone the repository follow the instructions below entitled "Getting Started with Create React App".
+
+## Contributing
+
+Contributions are welcome. Please raise an issue or pull request on the [GitHub repository](https://github.com/gcoulby/byte-viewer)
+
+## License
+
+This project is licensed under the MIT License - see the included LICENSE file for details.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
